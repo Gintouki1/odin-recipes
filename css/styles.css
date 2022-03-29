@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(115, 188, 197);
+    text-align: center;
+    color: white;
+}
+.heading1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+.uni{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+.link.uni{
+    font-size: 20px;
+    font-weight: 600;
+}
+.sub-heading{
+    color: rgb(119, 119, 119);
+    font-size: 30px;
+}
+.ol.ul{
+    list-style: circle;
+    text-align: left;
+    margin-inline: 940px;
+    
+}
+#ol{
+    text-align: left;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
